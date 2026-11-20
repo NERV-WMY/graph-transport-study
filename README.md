@@ -13,11 +13,11 @@ The initial state is maximally mixed on $n$ sites. Write $\kappa$ for the loss r
 $$
 \begin{aligned}
 \tau &\ge \frac{n}{\kappa}+\frac{(\kappa+2\gamma)(n-1)^2}{4n\sigma^2},\\
-\tau_* &=\frac{n-1}{\sigma}+\frac{\gamma(n-1)^2}{2n\sigma^2}.
+\tau_{\ast} &=\frac{n-1}{\sigma}+\frac{\gamma(n-1)^2}{2n\sigma^2}.
 \end{aligned}
 $$
 
-$\tau$ is the mean absorption time and $\gamma$ is the site dephasing rate. A weighted path reaches the bound at $\gamma=0$, and a Hermite-root graph reaches it with dephasing. The minimum $\tau_*$ uses $\kappa_*=2n\sigma/(n-1)$.
+$\tau$ is the mean absorption time and $\gamma$ is the site dephasing rate. A weighted path reaches the bound at $\gamma=0$, and a Hermite-root graph reaches it with dephasing. The minimum  $\tau_{\ast}$ uses $\kappa_{\ast}=2n\sigma/(n-1)$.
 
 **Several coherent detectors.**
 
