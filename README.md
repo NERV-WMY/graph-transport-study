@@ -71,7 +71,7 @@ $$
 \begin{aligned}
 \frac{\mathcal V}{m}&=\frac{11}{81}+\frac{2}{81(2+\beta)},\\
 \beta&=\frac{2b_2b_6}{b_2+b_6},\\
-b_\mu&=\left[\frac1m\operatorname{Tr}\big((\mu I_m+2L)^{-1}\big)\right]^{-1}-\mu.
+b_\mu&=\left[\frac1m\mathrm{Tr}\big((\mu I_m+2L)^{-1}\big)\right]^{-1}-\mu.
 \end{aligned}
 $$
 
